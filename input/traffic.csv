@@ -1,0 +1,5 @@
+node_a,node_b,rate
+pe1,pe4,10
+pe4,pe1,5
+pe3,pe2,2
+pe2,pe4,3
